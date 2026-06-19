@@ -1,6 +1,6 @@
 # Jogo Isométrico Grau B
 
-👥 Integrantes do Grupo
+👥 Integrantes do Grupo:
 Arthur Almeida Steinbach
 
 🚀 Como executar
